@@ -1,0 +1,29 @@
+.body-card{
+    border: solid 2px black;
+    text-align: center;
+}
+.profile-card{
+    
+    padding: 10px;
+
+}
+.headings{
+    color: white;
+    background-color: rgb(245, 119, 213);
+    width: fit-content;
+    height: 100%;
+    border-radius: 5px;
+    margin: 5px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.photo{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.role{
+    color: rgb(245, 119, 213);
+    font-style: italic;
+    padding: 0 10px 0 10px;
+}
